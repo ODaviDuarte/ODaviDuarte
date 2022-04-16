@@ -4,7 +4,7 @@
 - 📕 Estudando JavaScript
 
 <div align="center">
-  <a href="https://github.com/ODaviDuarte">
+  <a href="https://github.com/ODaviDuarte"><p>
   <img height="42%" src="https://github-readme-stats.vercel.app/api?username=ODaviDuarte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ODaviDuarte&layout=compact&langs_count=7&theme=dark"/>
 </div>
