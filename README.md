@@ -1,6 +1,6 @@
 # Olá, eu sou o Davi Duarte!
 
-- 💻 Atualmente procuro estágio no front-end
+- 💻 Atualmente me preparando para uma futura oportunidade de trabalho
 - 📕 Estudando JavaScript
 
 <div align="center">
